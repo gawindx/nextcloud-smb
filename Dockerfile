@@ -1,6 +1,6 @@
 FROM nextcloud:apache
 
-LABEL "io.containers.autoupdate=image"
+LABEL io.containers.autoupdate="image"
 
 MAINTAINER Decaux Nicolas <decauxnico@gmail.com>
 
