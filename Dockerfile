@@ -1,4 +1,4 @@
-FROM nextcloud:apache-latest
+FROM nextcloud:apache
 
 LABEL io.containers.autoupdate="image"
 
